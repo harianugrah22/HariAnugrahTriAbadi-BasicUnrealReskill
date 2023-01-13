@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Characters/Muffin/SK_Muffin.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Characters/Muffin/BP_Muffin.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Characters/Muffin/Animation/ABP_Muffin.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Characters/Muffin/Animation/BS_IdleWalk.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Maps/TutorialMap.umap",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Characters/Muffin/Animation/SK_Muffin_Death.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Characters/Muffin/Animation/SK_Muffin_Fall.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Characters/Muffin/Animation/SK_Muffin_Idle.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Characters/Muffin/Animation/SK_Muffin_Jump.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_PhysicsAsset.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Skeleton.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn6/SkywardMuffinStarter/SkywardMuffinStarter 5.1/Content/SkywardMuffin/Characters/Muffin/Animation/SK_Muffin_Walk.uasset"
+			]
+		}
+	]
+}
