@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/Audio/S_Music.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/Maps/TutorialMap.umap",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Walk.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/Audio/S_Pop_Cue.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/Blueprints/BP_Cloud.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/Audio/S_Rain.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/Audio/S_Effect_Class.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/Audio/S_Music_Class.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/Audio/S_Footstep.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/Audio/S_Volume_Mix.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/UI/WBP_Options.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn7/SkywardMuffinAudioStarter 5.1/Content/SkywardMuffin/Audio/S_VolumeMIx.uasset"
+			]
+		}
+	]
+}
