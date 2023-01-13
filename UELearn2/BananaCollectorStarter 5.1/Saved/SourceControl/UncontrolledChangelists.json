@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn2/BananaCollectorStarter 5.1/Content/BananaCollector/Blueprints/BP_Player.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn2/BananaCollectorStarter 5.1/Content/BananaCollector/Blueprints/GM_Tutorial.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn2/BananaCollectorStarter 5.1/Content/BananaCollector/Maps/TutorialMap.umap",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn2/BananaCollectorStarter 5.1/Content/BananaCollector/Blueprints/BP_Banana.uasset"
+			]
+		}
+	]
+}
