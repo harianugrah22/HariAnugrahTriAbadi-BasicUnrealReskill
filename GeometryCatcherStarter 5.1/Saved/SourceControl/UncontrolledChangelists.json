@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn4/GeometryCatcherStarter 5.1/Content/GeometryCatcher/UI/WBP_HUD.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn4/GeometryCatcherStarter 5.1/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn4/GeometryCatcherStarter 5.1/Content/GeometryCatcher/Maps/TutorialMap.umap"
+			]
+		}
+	]
+}
