@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn8/SpaceshipBattleStarter 5.1/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn8/SpaceshipBattleStarter 5.1/Content/SpaceshipBattle/Blueprints/BP_Player.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn8/SpaceshipBattleStarter 5.1/Content/SpaceshipBattle/Materials/M_Particle.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn8/SpaceshipBattleStarter 5.1/Content/SpaceshipBattle/ParticleSystems/PS_Explotion.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn8/SpaceshipBattleStarter 5.1/Content/SpaceshipBattle/ParticleSystems/PSE_Explotion.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn8/SpaceshipBattleStarter 5.1/Content/SpaceshipBattle/Blueprints/BP_Enemy.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn8/SpaceshipBattleStarter 5.1/Content/SpaceshipBattle/Maps/TutorialMap.umap"
+			]
+		}
+	]
+}
