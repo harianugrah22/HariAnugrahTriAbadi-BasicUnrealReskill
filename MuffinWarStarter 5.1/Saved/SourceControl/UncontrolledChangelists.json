@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn9/MuffinWarStarter 5.1/Content/MuffinWar/Characters/Muffin/Blueprints/BP_Muffin.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn9/MuffinWarStarter 5.1/Content/MuffinWar/Characters/Muffin/AI/BT_Muffin.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn9/MuffinWarStarter 5.1/Content/MuffinWar/Characters/Muffin/AI/BB_Muffin.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn9/MuffinWarStarter 5.1/Content/MuffinWar/Characters/Muffin/AI/BTService_SetRandomLocation.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn9/MuffinWarStarter 5.1/Content/MuffinWar/Maps/TutorialMap.umap",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn9/MuffinWarStarter 5.1/Content/MuffinWar/Characters/Muffin/AI/AIC_Muffin.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn9/MuffinWarStarter 5.1/Content/MuffinWar/Characters/Muffin/AI/BTTask_Attack.uasset",
+				"C:/2.Kerja/7.LearnUnreal/Learn1/UELearn9/MuffinWarStarter 5.1/Content/MuffinWar/Characters/Muffin/AI/BTService_SetRunLocation.uasset"
+			]
+		}
+	]
+}
